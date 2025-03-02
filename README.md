@@ -8,8 +8,8 @@
 - 💻 **Programming Languages**: Python (PyTorch, OpenCV).
 - 🔍 **Research Interests**: Object Detection (YOLO, Faster R-CNN) and Autonomous Driving.
 - 📫 **Contact**:
-   - **Email**: `liang.gao@stu.xjtu.edu.cn`
-   - **GitHub**: [your_github_link] *(optional)*
+  - **Email**: `liang.gao@stu.xjtu.edu.cn`
+  - **GitHub**: [your_github_link] *(optional)*
 
 <!--
 **GaoLianger/GaoLianger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
