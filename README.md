@@ -4,7 +4,7 @@
 - 🏫 **School**: Xi'an Jiaotong University (XJTU).
 - 🎓 **Education**:
 -- Bachelor in Chongqing University (CQU), 2019–2023.
--- Master in Xi'an Jiaotong University (XJTU), 2023–Present (advised by Prof. Wei Ke).
+-- Master in Xi'an Jiaotong University (XJTU), 2023–Present (advised by [Prof. Wei Ke](https://gr.xjtu.edu.cn/web/wei.ke/home)).
 - 💻 **Programming Languages**: Python (PyTorch, OpenCV).
 - 🔍 **Research Interests**: Object Detection (YOLO, Faster R-CNN) and Autonomous Driving.
 - 📫 **Contact**:
