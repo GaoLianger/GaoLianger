@@ -1,15 +1,15 @@
 ## Hi there 
 
-- 👋 I’m Gao Liang.
-- 🏫 School: Xi'an Jiaotong University (XJTU).
-- 🎓 Education:
- -- Bachelor in Chongqing University (CQU), 2019–2023.
- -- Master in Xi'an Jiaotong University (XJTU), 2023–Present (advised by Prof. Wei Ke).
-- 💻 Programming Languages: Python (PyTorch, OpenCV).
-- 🔍 Research Interests: Object Detection (YOLO, Faster R-CNN) and Autonomous Driving Systems.
-- 📫 Contact:
- -- Email: liang.gao@stu.xjtu.edu.cn
- -- GitHub: [your_github_link] (optional)
+👋 I’m Gao Liang.
+🏫 **School**: Xi'an Jiaotong University (XJTU).
+🎓 **Education**:
+ - Bachelor in Chongqing University (CQU), 2019–2023.
+ - Master in Xi'an Jiaotong University (XJTU), 2023–Present (advised by Prof. Wei Ke).
+💻 **Programming Languages**: Python (PyTorch, OpenCV).
+🔍 **Research Interests**: Object Detection (YOLO, Faster R-CNN) and Autonomous Driving Systems.
+📫 **Contact**:
+ - **Email**: `liang.gao@stu.xjtu.edu.cn`
+ - **GitHub**: [your_github_link] *(optional)*
 
 <!--
 **GaoLianger/GaoLianger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
