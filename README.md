@@ -2,10 +2,10 @@
 
 - 👋 I’m Gao Liang.
 - 🏫 School: Xi'an Jiaotong University.
-- 🎓 Education : Bachelor in CQU (2019-2023)，Master in XJTU (2023-), advised by [Wei Ke](https://gr.xjtu.edu.cn/web/wei.ke/home).
+- 🎓 Education: Bachelor in CQU (2019-2023)，Master in XJTU (2023-), advised by [Prof. Wei Ke](https://gr.xjtu.edu.cn/web/wei.ke/home).
 - 🔨 Programming Language : Python.
 - 🌱 I’m interested in: Object Detection and Autonomous Driving.
-- 📫 How to contact me : for e-mail: liang.gao@stu.xjtu.edu.cn.
+- 📫 How to contact me : Email: liang.gao@stu.xjtu.edu.cn.
 
 <!--
 **GaoLianger/GaoLianger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
